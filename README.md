@@ -28,7 +28,8 @@
     Displays information about tcp and udp connections and ports.
 
 ## OUTPUT
-
-
+![Screenshot (3)](https://github.com/hephzibaharulmaran/Ex01/assets/166100727/af9bf426-9ee6-4fc4-95ce-28532b78f45c)
+![Screenshot (4)](https://github.com/hephzibaharulmaran/Ex01/assets/166100727/b0dcd320-1861-48ec-9d90-9abdc96e7712)
+![Screenshot (5)](https://github.com/hephzibaharulmaran/Ex01/assets/166100727/bd37cd97-8dd3-4759-bf54-7a023c54ee6b)
 ## RESULT
   The basic commands in networking are executed successfully.
